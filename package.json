@@ -1,0 +1,24 @@
+{
+  "name": "QuickChoice",
+  "version": "1.0.0",
+  "description": "A web app for sorting options based on a user's comparisons.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrakeLambert/QuickChoice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DrakeLambert/QuickChoice/issues"
+  },
+  "homepage": "https://github.com/DrakeLambert/QuickChoice#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^3.1.2"
+  }
+}
